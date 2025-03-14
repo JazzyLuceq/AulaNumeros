@@ -1,0 +1,55 @@
+# Atividade 1
+
+
+lista1 = [28, 9, 22, -31, -3, -31, 10, 32, 10, 2]
+for elemento2 in lista1:
+  print(elemento2)
+# print()
+# print()
+
+
+# Atividade 2
+
+
+# lista2 = [3, 8, 30, 8, 19, -12, -2, -1, -7, -48]
+# for indice1 in range(len(lista2)):
+#     print(lista2[indice1])
+# print()
+# print()
+
+# Atividade 3
+
+
+ # lista3 = [10, 20, 30, 40, 50, 60, 80, 90, 100]
+ # for elemento3 in lista3:
+ #    print(elemento)
+# print()
+# print()
+
+# Atividade 4
+
+
+# lista4 = [110, 120, 130, 140, 150, 160, 170, 180, 190, 200]
+# for elemento4 in lista4:
+#     print(elemento4)
+# print()
+# print()
+
+
+# Atividade 5 (com ajuda do chatgpt)
+
+#lista5 = [28, 9, 22, -31, -3, -31, 10, 32, 10, 2]
+
+# Usando while para imprimir todos os itens da lista
+#indice2 = 0
+#while indice2 < len(lista5):
+#    print(lista5[indice2])
+#    indice2 += 1
+
+# Comparação com o exercício 1 (usando for loop)
+#print("\nUsando for loop:")
+#for elemento in lista5:
+#   print(elemento)
+
+
+# (Logo Logo termino todos os exercícios)
